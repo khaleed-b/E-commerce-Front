@@ -1,3 +1,7 @@
+# Bolt-specific
+.bolt/
+
+# Logs
 logs
 *.log
 npm-debug.log*
